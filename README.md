@@ -149,7 +149,7 @@ The 'classicMaldi()' computes several things at once and results are saved in in
 -   'fm' - Feature matrix. Rows are samples/spectra and columns are detected protein signals.
 -   'd' - Cosine distance matrix computed from 'fm'.
 -   'hc' - Hierarchical average-linkage clustering (UPGMA) based on 'd' calculated by 'hclust()'.
--   'ACSreps' - Average cosine similarity of each spectrum to its replicates. Replicates, here technical, are defined by 'replicate' metadata attribute stored in each mass spectrum object, where all replicates of the same culture have the same identifier. See MALDIquant documentation for more details on metadata attributes.
+-   'ACSreps' - Average cosine similarity of each spectrum to its replicates. Replicates, here technical, are defined by 'replicate' metadata attribute stored in each mass spectrum object, where all replicates have the same identifier. See MALDIquant documentation for more details on metadata attributes.
 
 Note that the negative intensity warnings are from baseline correction step and can be ignored.
 
