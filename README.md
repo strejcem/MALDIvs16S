@@ -322,21 +322,21 @@ for(iter in iteration) {
   numPeaks <- ncol(fmSubset)
   Int <- sum(fmSubset)
   
-  avgCosRange <- avgCos(fmSubset, techReps)
-  avgCosRange <- mean(avgCosRange$meanACS, na.rm = TRUE)
+  avgCosRangeTech <- avgCos(fmSubset, techReps)
+  avgCosRangeTech <- mean(avgCosRangeTech$meanACS, na.rm = TRUE)
   
-  avgCosRangeS <- avgCos(fmSubset, cultures)
-  avgCosRangeS <- mean(avgCosRangeS$meanACS, na.rm = TRUE)
+  avgCosRangeBiol <- avgCos(fmSubset, cultures)
+  avgCosRangeBiol <- mean(avgCosRangeBiol$meanACS, na.rm = TRUE)
 
   MSranges <- as.data.frame(rbind(MSranges,
                                   c(bot = bot,up = upper, numPeaks = numPeaks,
                                     Int = Int, predPeaks = predictives,
-                                    ACSR = avgCosRange, ACSS = avgCosRangeS)))
+                                    ACStech = avgCosRangeTech, ACSbiol = avgCosRangeBiol)))
 }
 MSranges
 ```
 
-    ##      bot    up numPeaks         Int predPeaks       ACSR       ACSS
+    ##      bot    up numPeaks         Int predPeaks    ACStech    ACSbiol
     ## 1   2000  3000       91 6.065038578         9 0.96470209 0.91928746
     ## 2   3000  4000       95 6.323682028         8 0.97144443 0.92704295
     ## 3   4000  5000       76 7.239983512        27 0.98223085 0.96536375
@@ -361,8 +361,8 @@ We wanted to have all information in one readable plot. To reach that, we needed
 ``` r
 intenzity <- data.frame(mz = rep(MSranges$bot, each = 2),
                         Int = rep(MSranges$Int, each = 2),
-                        ACSR = rep(MSranges$ACSR, each = 2),
-                        ACSS = rep(MSranges$ACSS, each = 2))
+                        ACStech = rep(MSranges$ACStech, each = 2),
+                        ACSbiol = rep(MSranges$ACSbiol, each = 2))
 intenzity$mz <- intenzity$mz + c(unit/2-unit/4, unit/2+unit/4)
 
 # generate the plot
@@ -380,7 +380,7 @@ ggplot(MSranges, aes(bot+unit/2)) +
   geom_text(aes(y = predPeaks/max(numPeaks), 
                 label = scales::percent(predPeaks/max(numPeaks))), size = 3,
             position = position_nudge(y = 0.07), col = "black", angle = 90) +
-  geom_line(data = intenzity, aes(x = mz, y = ACSS), col = "red", size = 1) +
+  geom_line(data = intenzity, aes(x = mz, y = ACSbiol), col = "red", size = 1) +
   labs(x = expression(italic("m/z")), y = "") +
   scale_x_continuous(name = expression(italic("m/z")),
                      breaks = seq(2000, 20000, 2000),
@@ -390,7 +390,7 @@ ggplot(MSranges, aes(bot+unit/2)) +
 
 ![](MALDIvs16S_files/figure-markdown_github/intervalPlot-1.png)
 
-We conclude with restricting the mass rage for further analysis to 4000-10000 m/z values. For more detail, please refer to the manuscript.
+Analysis of 1 kDa mass intervals across all 585 mass spectra. Gray bars—number of detected mass signals per interval; blue bars—number of mass signals identified by shrinkage discriminant analysis as useful for species prediction based on assigning the closest type strain; green area—proportional mass signal intensity; red line—mean value of average cosine similarity between biological and technical replicates of individual cultures (4 × 3 = 12 spectra). All values are normalized by maxima of the respective variable. We conclude with restricting the mass rage for further analysis to 4000-10000 m/z values. For more detail, please refer to the manuscript.
 
 16S rRNA gene sequence analysis
 -------------------------------
