@@ -134,24 +134,24 @@ for(iter in iteration) {
   numPeaks <- ncol(fmSubset)
   Int <- sum(fmSubset)
   
-  avgCosRange <- avgCos(fmSubset, techReps)
-  avgCosRange <- mean(avgCosRange$meanACS, na.rm = TRUE)
+  avgCosRangeTech <- avgCos(fmSubset, techReps)
+  avgCosRangeTech <- mean(avgCosRangeTech$meanACS, na.rm = TRUE)
   
-  avgCosRangeS <- avgCos(fmSubset, cultures)
-  avgCosRangeS <- mean(avgCosRangeS$meanACS, na.rm = TRUE)
+  avgCosRangeBiol <- avgCos(fmSubset, cultures)
+  avgCosRangeBiol <- mean(avgCosRangeBiol$meanACS, na.rm = TRUE)
 
   MSranges <- as.data.frame(rbind(MSranges,
                                   c(bot = bot,up = upper, numPeaks = numPeaks,
                                     Int = Int, predPeaks = predictives,
-                                    ACSR = avgCosRange, ACSS = avgCosRangeS)))
+                                    ACStech = avgCosRangeTech, ACSbiol = avgCosRangeBiol)))
 }
 MSranges
 
 ## ----intervalPlot--------------------------------------------------------
 intenzity <- data.frame(mz = rep(MSranges$bot, each = 2),
                         Int = rep(MSranges$Int, each = 2),
-                        ACSR = rep(MSranges$ACSR, each = 2),
-                        ACSS = rep(MSranges$ACSS, each = 2))
+                        ACStech = rep(MSranges$ACStech, each = 2),
+                        ACSbiol = rep(MSranges$ACSbiol, each = 2))
 intenzity$mz <- intenzity$mz + c(unit/2-unit/4, unit/2+unit/4)
 
 # generate the plot
@@ -169,7 +169,7 @@ ggplot(MSranges, aes(bot+unit/2)) +
   geom_text(aes(y = predPeaks/max(numPeaks), 
                 label = scales::percent(predPeaks/max(numPeaks))), size = 3,
             position = position_nudge(y = 0.07), col = "black", angle = 90) +
-  geom_line(data = intenzity, aes(x = mz, y = ACSS), col = "red", size = 1) +
+  geom_line(data = intenzity, aes(x = mz, y = ACSbiol), col = "red", size = 1) +
   labs(x = expression(italic("m/z")), y = "") +
   scale_x_continuous(name = expression(italic("m/z")),
                      breaks = seq(2000, 20000, 2000),
