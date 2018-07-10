@@ -37,6 +37,11 @@ for (param in names(metadata)) {
 # process MS data with convenience function 'classicMaldi()' that wraps the whole
 MS <- classicMALDI(s, range = c(2000, 20000))
 
+# to print mass dedrogram of all mass spectra (Supplementary Figure 1) you can
+# use PDFplot() function.
+PDFplot(MS$hc, file = "dendrogram.pdf", cutoffs = c(1-0.79, 1-0.92))
+
+# plot distribution of average cosine similarity of each spectrum to its technical replicates
 qplot(MS$ACSreps, geom = "histogram", bins = 100)
 
 ## ----outliers------------------------------------------------------------
@@ -50,7 +55,7 @@ species <- plyr::mapvalues(metaParam(s, "culture"),
                            to = EzT$species
                            )
 
-## ----sda-----------------------------------------------------------------
+## ----sda, warning=F------------------------------------------------------
 library(sda)
 MS <- classicMALDI(s, range = c(2000, 20000))
 ldar <- sda.ranking(Xtrain=MS$fm, L = as.factor(species),
@@ -95,6 +100,7 @@ predfun <- function(Xtrain, Ytrain, Xtest, Ytest,
     return(acc)
   }
 
+# extract 'culture' metada attribute from all sprectra to a vector
 cultures <- metaParam(s, "culture")
 cv <- crossval(predfun, X=MS$fm, Y=factor(cultures), diagonal=F, verbose=F,
                K=10, B=10,  # 10x10 cross-validation
@@ -275,10 +281,9 @@ ggplot(dfGrouped, aes(avgMS, avg16S*100, col = relation, alpha = alpha)) +
            label = c(98.65, 0.79, 0.92))  +
   labs(x="Mass spectra cosine similarity",
        y="16S rRNA gene sequence similarity [%]") +
-  theme(legend.position = c(0.6, 0.4),
+  theme(legend.position = c(0.5, 0.4),
         legend.background = element_rect(
-          fill = "white", linetype = 1, color = 1
-        ))
+          fill = "white", linetype = 1, color = 1))
 
 
 ## ----F1score, message=F--------------------------------------------------
