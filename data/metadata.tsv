@@ -1,0 +1,589 @@
+fullName	culture	bioRep	techRep	taxonomy	taxGenus	taxSpecies	scoreValue	replicate	preparation	day
+Ach1_1_1	Ach1	1	1	Achromobacter xylosoxidans	Achromobacter	xylosoxidans	2.102	18	direct	1D
+Ach1_1_2	Ach1	1	2	Achromobacter xylosoxidans	Achromobacter	xylosoxidans	2.157	18	direct	1D
+Ach1_1_3	Ach1	1	3	Achromobacter piechaudii	Achromobacter	piechaudii	2.11	18	direct	1D
+Ach1_2_1	Ach1	2	1	Achromobacter xylosoxidans	Achromobacter	xylosoxidans	2.087	63	direct	1D
+Ach1_2_2	Ach1	2	2	Achromobacter xylosoxidans	Achromobacter	xylosoxidans	2.083	63	direct	1D
+Ach1_2_3	Ach1	2	3	Achromobacter piechaudii	Achromobacter	piechaudii	2.069	63	direct	1D
+Ach1_3_1	Ach1	3	1	Achromobacter spanius	Achromobacter	spanius	1.961	111	direct	1D
+Ach1_3_2	Ach1	3	2	Achromobacter piechaudii	Achromobacter	piechaudii	2.077	111	direct	1D
+Ach1_3_3	Ach1	3	3	Achromobacter spanius	Achromobacter	spanius	1.996	111	direct	1D
+Ach1_4_1	Ach1	4	1	Achromobacter piechaudii	Achromobacter	piechaudii	2.016	161	direct	1D
+Ach1_4_2	Ach1	4	2	Achromobacter piechaudii	Achromobacter	piechaudii	2.105	161	direct	1D
+Ach1_4_3	Ach1	4	3	Achromobacter xylosoxidans	Achromobacter	xylosoxidans	2.043	161	direct	1D
+Art1_1_1	Art1	1	1	Arthrobacter sulfonivorans	Arthrobacter	sulfonivorans	1.804	20	direct	1D
+Art1_1_2	Art1	1	2	Arthrobacter sulfonivorans	Arthrobacter	sulfonivorans	1.768	20	direct	1D
+Art1_1_3	Art1	1	3	Arthrobacter oxydans	Arthrobacter	oxydans	1.718	20	direct	1D
+Art1_2_1	Art1	2	1	NA	NA	NA	1.636	65	direct	1D
+Art1_2_2	Art1	2	2	Arthrobacter polychromogenes	Arthrobacter	polychromogenes	1.834	65	direct	1D
+Art1_2_3	Art1	2	3	Arthrobacter oxydans	Arthrobacter	oxydans	1.74	65	direct	1D
+Art1_3_1	Art1	3	1	Arthrobacter polychromogenes	Arthrobacter	polychromogenes	1.838	113	direct	1D
+Art1_3_2	Art1	3	2	Arthrobacter sulfonivorans	Arthrobacter	sulfonivorans	1.835	113	direct	1D
+Art1_3_3	Art1	3	3	Arthrobacter polychromogenes	Arthrobacter	polychromogenes	1.908	113	direct	1D
+Art1_4_1	Art1	4	1	Arthrobacter oxydans	Arthrobacter	oxydans	1.71	163	direct	1D
+Art1_4_2	Art1	4	2	Arthrobacter sulfonivorans	Arthrobacter	sulfonivorans	1.816	163	direct	1D
+Art1_4_3	Art1	4	3	Arthrobacter oxydans	Arthrobacter	oxydans	1.801	163	direct	1D
+Art2_1_1	Art2	1	1	Arthrobacter ureafaciens	Arthrobacter	ureafaciens	1.793	29	direct	1D
+Art2_1_2	Art2	1	2	Arthrobacter oxydans	Arthrobacter	oxydans	1.964	29	direct	1D
+Art2_1_3	Art2	1	3	Arthrobacter oxydans	Arthrobacter	oxydans	1.802	29	direct	1D
+Art2_2_1	Art2	2	1	Arthrobacter oxydans	Arthrobacter	oxydans	1.896	74	direct	1D
+Art2_2_2	Art2	2	2	Arthrobacter oxydans	Arthrobacter	oxydans	2.039	74	direct	1D
+Art2_2_3	Art2	2	3	Arthrobacter oxydans	Arthrobacter	oxydans	2.081	74	direct	1D
+Art2_3_1	Art2	3	1	Arthrobacter oxydans	Arthrobacter	oxydans	2.071	122	direct	1D
+Art2_3_2	Art2	3	2	Arthrobacter oxydans	Arthrobacter	oxydans	2.08	122	direct	1D
+Art2_3_3	Art2	3	3	Arthrobacter oxydans	Arthrobacter	oxydans	1.958	122	direct	1D
+Art2_4_1	Art2	4	1	Arthrobacter oxydans	Arthrobacter	oxydans	1.863	172	direct	1D
+Art2_4_2	Art2	4	2	Arthrobacter oxydans	Arthrobacter	oxydans	1.926	172	direct	1D
+Art2_4_3	Art2	4	3	Arthrobacter oxydans	Arthrobacter	oxydans	1.915	172	direct	1D
+Art3_1_1	Art3	1	1	NA	NA	NA	1.418	25	direct	1D
+Art3_1_2	Art3	1	2	Arthrobacter protophormiae	Arthrobacter	protophormiae	1.829	25	direct	1D
+Art3_1_3	Art3	1	3	NA	NA	NA	1.501	25	direct	1D
+Art3_2_1	Art3	2	1	NA	NA	NA	1.696	70	direct	1D
+Art3_2_2	Art3	2	2	Arthrobacter protophormiae	Arthrobacter	protophormiae	1.841	70	direct	1D
+Art3_2_3	Art3	2	3	NA	NA	NA	1.624	70	direct	1D
+Art3_3_1	Art3	3	1	NA	NA	NA	1.678	118	direct	1D
+Art3_3_2	Art3	3	2	Arthrobacter protophormiae	Arthrobacter	protophormiae	1.869	118	direct	1D
+Art3_3_3	Art3	3	3	Arthrobacter protophormiae	Arthrobacter	protophormiae	1.757	118	direct	1D
+Art3_4_1	Art3	4	1	NA	NA	NA	1.486	168	direct	1D
+Art3_4_2	Art3	4	2	Arthrobacter protophormiae	Arthrobacter	protophormiae	1.763	168	direct	1D
+Art3_4_3	Art3	4	3	NA	NA	NA	1.603	168	direct	1D
+Bac1_1_1	Bac1	1	1	Bacillus licheniformis	Bacillus	licheniformis	2.178	8	direct	1D
+Bac1_1_2	Bac1	1	2	Bacillus licheniformis	Bacillus	licheniformis	2.221	8	direct	1D
+Bac1_1_3	Bac1	1	3	Bacillus licheniformis	Bacillus	licheniformis	2.045	8	direct	1D
+Bac1_2_1	Bac1	2	1	Bacillus licheniformis	Bacillus	licheniformis	2.015	53	direct	1D
+Bac1_2_2	Bac1	2	2	Bacillus licheniformis	Bacillus	licheniformis	2.311	53	direct	1D
+Bac1_2_3	Bac1	2	3	Bacillus licheniformis	Bacillus	licheniformis	1.912	53	direct	1D
+Bac1_3_1	Bac1	3	1	Bacillus licheniformis	Bacillus	licheniformis	2.219	101	direct	1D
+Bac1_3_2	Bac1	3	2	Bacillus licheniformis	Bacillus	licheniformis	2.318	101	direct	1D
+Bac1_3_3	Bac1	3	3	Bacillus licheniformis	Bacillus	licheniformis	2.331	101	direct	1D
+Bac1_4_1	Bac1	4	1	Bacillus licheniformis	Bacillus	licheniformis	2.269	148	direct	1D
+Bac1_4_2	Bac1	4	2	Bacillus licheniformis	Bacillus	licheniformis	2.197	148	direct	1D
+Bac1_4_3	Bac1	4	3	Bacillus licheniformis	Bacillus	licheniformis	2.041	148	direct	1D
+Bac2_1_1	Bac2	1	1	NA	NA	NA	1.589	52	direct	1D
+Bac2_1_2	Bac2	1	2	NA	NA	NA	1.628	52	direct	1D
+Bac2_1_3	Bac2	1	3	NA	NA	NA	1.51	52	direct	1D
+Bac2_2_1	Bac2	2	1	Bacillus clausii	Bacillus	clausii	1.702	100	direct	1D
+Bac2_2_2	Bac2	2	2	Bacillus clausii	Bacillus	clausii	1.772	100	direct	1D
+Bac2_2_3	Bac2	2	3	Bacillus clausii	Bacillus	clausii	1.883	100	direct	1D
+Bac2_3_1	Bac2	3	1	NA	NA	NA	1.424	147	direct	1D
+Bac2_3_2	Bac2	3	2	NA	NA	NA	1.502	147	direct	1D
+Bac2_3_3	Bac2	3	3	NA	NA	NA	1.671	147	direct	1D
+Bac2_4_1	Bac2	4	1	Bacillus clausii	Bacillus	clausii	1.958	193	direct	1D
+Bac2_4_2	Bac2	4	2	Bacillus clausii	Bacillus	clausii	1.817	193	direct	1D
+Bac2_4_3	Bac2	4	3	Bacillus clausii	Bacillus	clausii	1.807	193	direct	1D
+Bac3_1_1	Bac3	1	1	NA	NA	NA	1.565	6	direct	1D
+Bac3_1_2	Bac3	1	2	Bacillus megaterium	Bacillus	megaterium	1.902	6	direct	1D
+Bac3_1_3	Bac3	1	3	Bacillus megaterium	Bacillus	megaterium	1.916	6	direct	1D
+Bac3_2_1	Bac3	2	1	Bacillus megaterium	Bacillus	megaterium	2.248	50	direct	1D
+Bac3_2_2	Bac3	2	2	Bacillus megaterium	Bacillus	megaterium	2.169	50	direct	1D
+Bac3_2_3	Bac3	2	3	Bacillus megaterium	Bacillus	megaterium	2.096	50	direct	1D
+Bac3_3_1	Bac3	3	1	Bacillus megaterium	Bacillus	megaterium	1.897	98	direct	1D
+Bac3_3_2	Bac3	3	2	Bacillus megaterium	Bacillus	megaterium	1.801	98	direct	1D
+Bac3_3_3	Bac3	3	3	Bacillus megaterium	Bacillus	megaterium	1.86	98	direct	1D
+Bac3_4_1	Bac3	4	1	Bacillus megaterium	Bacillus	megaterium	2.067	145	direct	1D
+Bac3_4_2	Bac3	4	2	Bacillus megaterium	Bacillus	megaterium	2.227	145	direct	1D
+Bac3_4_3	Bac3	4	3	Bacillus megaterium	Bacillus	megaterium	2.007	145	direct	1D
+Bac4_1_1	Bac4	1	1	Bacillus subtilis	Bacillus	subtilis	2.146	2	direct	1D
+Bac4_1_2	Bac4	1	2	Bacillus subtilis	Bacillus	subtilis	2.144	2	direct	1D
+Bac4_1_3	Bac4	1	3	Bacillus subtilis	Bacillus	subtilis	2.105	2	direct	1D
+Bac4_2_1	Bac4	2	1	Bacillus subtilis	Bacillus	subtilis	1.951	44	direct	1D
+Bac4_2_2	Bac4	2	2	Bacillus subtilis	Bacillus	subtilis	1.897	44	direct	1D
+Bac4_2_3	Bac4	2	3	Bacillus subtilis	Bacillus	subtilis	1.855	44	direct	1D
+Bac4_3_1	Bac4	3	1	Bacillus subtilis	Bacillus	subtilis	1.724	92	direct	1D
+Bac4_3_2	Bac4	3	2	NA	NA	NA	1.691	92	direct	1D
+Bac4_3_3	Bac4	3	3	Bacillus subtilis	Bacillus	subtilis	1.792	92	direct	1D
+Bac4_4_1	Bac4	4	1	Bacillus subtilis	Bacillus	subtilis	2.215	139	direct	1D
+Bac4_4_2	Bac4	4	2	Bacillus subtilis	Bacillus	subtilis	2.162	139	direct	1D
+Bac4_4_3	Bac4	4	3	Bacillus subtilis	Bacillus	subtilis	1.88	139	direct	1D
+Bac5_1_1	Bac5	1	1	Bacillus pumilus	Bacillus	pumilus	2.034	1	direct	1D
+Bac5_1_2	Bac5	1	2	Bacillus pumilus	Bacillus	pumilus	1.935	1	direct	1D
+Bac5_1_3	Bac5	1	3	Bacillus pumilus	Bacillus	pumilus	2.027	1	direct	1D
+Bac5_2_1	Bac5	2	1	Bacillus pumilus	Bacillus	pumilus	2.075	43	direct	1D
+Bac5_2_2	Bac5	2	2	Bacillus pumilus	Bacillus	pumilus	1.986	43	direct	1D
+Bac5_2_3	Bac5	2	3	Bacillus pumilus	Bacillus	pumilus	2.07	43	direct	1D
+Bac5_3_1	Bac5	3	1	Bacillus pumilus	Bacillus	pumilus	1.758	91	direct	1D
+Bac5_3_2	Bac5	3	2	Bacillus pumilus	Bacillus	pumilus	1.874	91	direct	1D
+Bac5_3_3	Bac5	3	3	Bacillus pumilus	Bacillus	pumilus	1.743	91	direct	1D
+Bac5_4_1	Bac5	4	1	Bacillus pumilus	Bacillus	pumilus	1.867	138	direct	1D
+Bac5_4_2	Bac5	4	2	Bacillus pumilus	Bacillus	pumilus	1.875	138	direct	1D
+Bac5_4_3	Bac5	4	3	Bacillus pumilus	Bacillus	pumilus	1.81	138	direct	1D
+Bac6_1_1	Bac6	1	1	Bacillus pumilus	Bacillus	pumilus	2.172	42	direct	1D
+Bac6_1_2	Bac6	1	2	Bacillus pumilus	Bacillus	pumilus	1.989	42	direct	1D
+Bac6_1_3	Bac6	1	3	Bacillus pumilus	Bacillus	pumilus	1.932	42	direct	1D
+Bac6_2_1	Bac6	2	1	Bacillus pumilus	Bacillus	pumilus	2.251	89	direct	1D
+Bac6_2_2	Bac6	2	2	Bacillus pumilus	Bacillus	pumilus	2.268	89	direct	1D
+Bac6_2_3	Bac6	2	3	Bacillus pumilus	Bacillus	pumilus	2.309	89	direct	1D
+Bac6_3_1	Bac6	3	1	Bacillus pumilus	Bacillus	pumilus	2.273	137	direct	1D
+Bac6_3_2	Bac6	3	2	Bacillus pumilus	Bacillus	pumilus	2.253	137	direct	1D
+Bac6_3_3	Bac6	3	3	Bacillus pumilus	Bacillus	pumilus	2.089	137	direct	1D
+Bac6_4_1	Bac6	4	1	Bacillus pumilus	Bacillus	pumilus	2.183	187	direct	1D
+Bac6_4_2	Bac6	4	2	Bacillus pumilus	Bacillus	pumilus	2.288	187	direct	1D
+Bac6_4_3	Bac6	4	3	Bacillus pumilus	Bacillus	pumilus	2.263	187	direct	1D
+Bos1_1_1	Bos1	1	1	NA	NA	NA	1.388	22	direct	1D
+Bos1_1_2	Bos1	1	2	NA	NA	NA	1.469	22	direct	1D
+Bos1_1_3	Bos1	1	3	NA	NA	NA	1.4	22	direct	1D
+Bos1_2_1	Bos1	2	1	NA	NA	NA	1.414	67	direct	1D
+Bos1_2_2	Bos1	2	2	NA	NA	NA	1.492	67	direct	1D
+Bos1_2_3	Bos1	2	3	NA	NA	NA	1.502	67	direct	1D
+Bos1_3_1	Bos1	3	1	NA	NA	NA	1.396	115	direct	1D
+Bos1_3_2	Bos1	3	2	NA	NA	NA	1.514	115	direct	1D
+Bos1_3_3	Bos1	3	3	NA	NA	NA	1.442	115	direct	1D
+Bos1_4_1	Bos1	4	1	NA	NA	NA	1.536	165	direct	1D
+Bos1_4_2	Bos1	4	2	NA	NA	NA	1.551	165	direct	1D
+Bos1_4_3	Bos1	4	3	NA	NA	NA	1.437	165	direct	1D
+Bre1_1_1	Bre1	1	1	Bacillus simplex	Bacillus	simplex	1.964	13	direct	1D
+Bre1_1_2	Bre1	1	2	Bacillus simplex	Bacillus	simplex	2.073	13	direct	1D
+Bre1_1_3	Bre1	1	3	Bacillus simplex	Bacillus	simplex	1.995	13	direct	1D
+Bre1_2_1	Bre1	2	1	Bacillus simplex	Bacillus	simplex	2.174	59	direct	1D
+Bre1_2_2	Bre1	2	2	Bacillus simplex	Bacillus	simplex	2.198	59	direct	1D
+Bre1_2_3	Bre1	2	3	Bacillus simplex	Bacillus	simplex	2.201	59	direct	1D
+Bre1_3_1	Bre1	3	1	Bacillus simplex	Bacillus	simplex	2.156	107	direct	1D
+Bre1_3_2	Bre1	3	2	Bacillus simplex	Bacillus	simplex	1.935	107	direct	1D
+Bre1_3_3	Bre1	3	3	Bacillus simplex	Bacillus	simplex	2.02	107	direct	1D
+Bre1_4_1	Bre1	4	1	Bacillus simplex	Bacillus	simplex	1.931	154	direct	1D
+Bre1_4_2	Bre1	4	2	Bacillus simplex	Bacillus	simplex	2.195	154	direct	1D
+Bre1_4_3	Bre1	4	3	Bacillus simplex	Bacillus	simplex	2.02	154	direct	1D
+Bre2_1_1	Bre2	1	1	Brevibacillus borstelensis	Brevibacillus	borstelensis	2.185	4	direct	1D
+Bre2_1_2	Bre2	1	2	Brevibacillus borstelensis	Brevibacillus	borstelensis	2.351	4	direct	1D
+Bre2_1_3	Bre2	1	3	Brevibacillus borstelensis	Brevibacillus	borstelensis	2.266	4	direct	1D
+Bre2_2_1	Bre2	2	1	Brevibacillus borstelensis	Brevibacillus	borstelensis	2.281	46	direct	1D
+Bre2_2_2	Bre2	2	2	Brevibacillus borstelensis	Brevibacillus	borstelensis	2.335	46	direct	1D
+Bre2_2_3	Bre2	2	3	Brevibacillus borstelensis	Brevibacillus	borstelensis	2.38	46	direct	1D
+Bre2_3_1	Bre2	3	1	Brevibacillus borstelensis	Brevibacillus	borstelensis	2.36	94	direct	1D
+Bre2_3_2	Bre2	3	2	Brevibacillus borstelensis	Brevibacillus	borstelensis	2.353	94	direct	1D
+Bre2_3_3	Bre2	3	3	Brevibacillus borstelensis	Brevibacillus	borstelensis	2.366	94	direct	1D
+Bre2_4_1	Bre2	4	1	Brevibacillus borstelensis	Brevibacillus	borstelensis	2.159	141	direct	1D
+Bre2_4_2	Bre2	4	2	Brevibacillus borstelensis	Brevibacillus	borstelensis	2.211	141	direct	1D
+Bre2_4_3	Bre2	4	3	Brevibacillus borstelensis	Brevibacillus	borstelensis	2.173	141	direct	1D
+Bre3_1_1	Bre3	1	1	NA	NA	NA	1.597	5	direct	1D
+Bre3_1_2	Bre3	1	2	NA	NA	NA	1.624	5	direct	1D
+Bre3_1_3	Bre3	1	3	NA	NA	NA	1.403	5	direct	1D
+Bre3_2_1	Bre3	2	1	NA	NA	NA	1.598	49	direct	1D
+Bre3_2_2	Bre3	2	2	NA	NA	NA	1.508	49	direct	1D
+Bre3_2_3	Bre3	2	3	NA	NA	NA	1.525	49	direct	1D
+Bre3_3_1	Bre3	3	1	NA	NA	NA	1.447	97	direct	1D
+Bre3_3_2	Bre3	3	2	NA	NA	NA	1.427	97	direct	1D
+Bre3_3_3	Bre3	3	3	NA	NA	NA	1.513	97	direct	1D
+Bre3_4_1	Bre3	4	1	NA	NA	NA	1.611	144	direct	1D
+Bre3_4_2	Bre3	4	2	NA	NA	NA	1.432	144	direct	1D
+Bre3_4_3	Bre3	4	3	NA	NA	NA	1.472	144	direct	1D
+Cup1_1_1	Cup1	1	1	Cupriavidus necator	Cupriavidus	necator	2.119	79	direct	1D
+Cup1_1_2	Cup1	1	2	Cupriavidus necator	Cupriavidus	necator	2.09	79	direct	1D
+Cup1_1_3	Cup1	1	3	Cupriavidus necator	Cupriavidus	necator	2.219	79	direct	1D
+Cup1_2_1	Cup1	2	1	Cupriavidus necator	Cupriavidus	necator	2.26	127	direct	1D
+Cup1_2_2	Cup1	2	2	Cupriavidus necator	Cupriavidus	necator	2.186	127	direct	1D
+Cup1_2_3	Cup1	2	3	Cupriavidus necator	Cupriavidus	necator	2.228	127	direct	1D
+Cup1_3_1	Cup1	3	1	Cupriavidus necator	Cupriavidus	necator	2.308	177	direct	1D
+Cup1_3_2	Cup1	3	2	Cupriavidus necator	Cupriavidus	necator	2.312	177	direct	1D
+Cup1_3_3	Cup1	3	3	Cupriavidus necator	Cupriavidus	necator	2.261	177	direct	1D
+Cup1_4_1	Cup1	4	1	Cupriavidus necator	Cupriavidus	necator	2.251	195	direct	1D
+Cup1_4_2	Cup1	4	2	Cupriavidus necator	Cupriavidus	necator	2.251	195	direct	1D
+Cup1_4_3	Cup1	4	3	Cupriavidus necator	Cupriavidus	necator	2.361	195	direct	1D
+Glu1_1_1	Glu1	1	1	Arthrobacter arilaitensis	Arthrobacter	arilaitensis	2.176	24	direct	1D
+Glu1_1_2	Glu1	1	2	Arthrobacter arilaitensis	Arthrobacter	arilaitensis	2.329	24	direct	1D
+Glu1_1_3	Glu1	1	3	Arthrobacter arilaitensis	Arthrobacter	arilaitensis	2.129	24	direct	1D
+Glu1_2_1	Glu1	2	1	Arthrobacter arilaitensis	Arthrobacter	arilaitensis	2.317	69	direct	1D
+Glu1_2_2	Glu1	2	2	Arthrobacter arilaitensis	Arthrobacter	arilaitensis	2.383	69	direct	1D
+Glu1_2_3	Glu1	2	3	Arthrobacter arilaitensis	Arthrobacter	arilaitensis	2.419	69	direct	1D
+Glu1_3_1	Glu1	3	1	Arthrobacter arilaitensis	Arthrobacter	arilaitensis	2.486	117	direct	1D
+Glu1_3_2	Glu1	3	2	Arthrobacter arilaitensis	Arthrobacter	arilaitensis	2.559	117	direct	1D
+Glu1_3_3	Glu1	3	3	Arthrobacter arilaitensis	Arthrobacter	arilaitensis	2.555	117	direct	1D
+Glu1_4_1	Glu1	4	1	Arthrobacter arilaitensis	Arthrobacter	arilaitensis	2.179	167	direct	1D
+Glu1_4_2	Glu1	4	2	Arthrobacter arilaitensis	Arthrobacter	arilaitensis	2.211	167	direct	1D
+Glu1_4_3	Glu1	4	3	Arthrobacter arilaitensis	Arthrobacter	arilaitensis	2.102	167	direct	1D
+Lys1_1_1	Lys1	1	1	Lysinibacillus fusiformis	Lysinibacillus	fusiformis	1.734	10	direct	1D
+Lys1_1_2	Lys1	1	2	NA	NA	NA	1.532	10	direct	1D
+Lys1_1_3	Lys1	1	3	NA	NA	NA	1.619	10	direct	1D
+Lys1_2_1	Lys1	2	1	NA	NA	NA	1.511	56	direct	1D
+Lys1_2_2	Lys1	2	2	NA	NA	NA	1.566	56	direct	1D
+Lys1_2_3	Lys1	2	3	NA	NA	NA	1.691	56	direct	1D
+Lys1_3_1	Lys1	3	1	NA	NA	NA	1.433	104	direct	1D
+Lys1_3_2	Lys1	3	2	NA	NA	NA	1.376	104	direct	1D
+Lys1_3_3	Lys1	3	3	NA	NA	NA	1.587	104	direct	1D
+Lys1_4_1	Lys1	4	1	NA	NA	NA	1.652	151	direct	1D
+Lys1_4_2	Lys1	4	2	Lysinibacillus fusiformis	Lysinibacillus	fusiformis	1.703	151	direct	1D
+Lys1_4_3	Lys1	4	3	NA	NA	NA	1.553	151	direct	1D
+Lys2_1_1	Lys2	1	1	NA	NA	NA	1.591	11	direct	1D
+Lys2_1_2	Lys2	1	2	NA	NA	NA	1.448	11	direct	1D
+Lys2_1_3	Lys2	1	3	Lysinibacillus fusiformis	Lysinibacillus	fusiformis	1.72	11	direct	1D
+Lys2_2_1	Lys2	2	1	NA	NA	NA	1.593	57	direct	1D
+Lys2_2_2	Lys2	2	2	NA	NA	NA	1.579	57	direct	1D
+Lys2_2_3	Lys2	2	3	Lysinibacillus fusiformis	Lysinibacillus	fusiformis	1.701	57	direct	1D
+Lys2_3_1	Lys2	3	1	NA	NA	NA	1.566	105	direct	1D
+Lys2_3_2	Lys2	3	2	Lysinibacillus fusiformis	Lysinibacillus	fusiformis	1.717	105	direct	1D
+Lys2_3_3	Lys2	3	3	NA	NA	NA	1.515	105	direct	1D
+Lys2_4_1	Lys2	4	1	NA	NA	NA	1.67	152	direct	1D
+Lys2_4_2	Lys2	4	2	NA	NA	NA	1.606	152	direct	1D
+Lys2_4_3	Lys2	4	3	NA	NA	NA	1.53	152	direct	1D
+Lys3_1_1	Lys3	1	1	NA	NA	NA	1.432	14	direct	1D
+Lys3_1_2	Lys3	1	2	Lysinibacillus fusiformis	Lysinibacillus	fusiformis	1.842	14	direct	1D
+Lys3_1_3	Lys3	1	3	NA	NA	NA	1.441	14	direct	1D
+Lys3_2_1	Lys3	2	1	NA	NA	NA	1.377	60	direct	1D
+Lys3_2_2	Lys3	2	2	NA	NA	NA	1.361	60	direct	1D
+Lys3_2_3	Lys3	2	3	NA	NA	NA	1.412	60	direct	1D
+Lys3_3_1	Lys3	3	1	NA	NA	NA	1.559	108	direct	1D
+Lys3_3_2	Lys3	3	2	NA	NA	NA	1.514	108	direct	1D
+Lys3_3_3	Lys3	3	3	NA	NA	NA	1.468	108	direct	1D
+Lys3_4_1	Lys3	4	1	Lysinibacillus fusiformis	Lysinibacillus	fusiformis	2.014	155	direct	1D
+Lys3_4_2	Lys3	4	2	Lysinibacillus fusiformis	Lysinibacillus	fusiformis	1.898	155	direct	1D
+Lys3_4_3	Lys3	4	3	Lysinibacillus fusiformis	Lysinibacillus	fusiformis	1.963	155	direct	1D
+Lys4_1_1	Lys4	1	1	NA	NA	NA	1.614	3	direct	1D
+Lys4_1_2	Lys4	1	2	NA	NA	NA	1.691	3	direct	1D
+Lys4_1_3	Lys4	1	3	Lysinibacillus sphaericus	Lysinibacillus	sphaericus	1.749	3	direct	1D
+Lys4_2_1	Lys4	2	1	NA	NA	NA	1.652	45	direct	1D
+Lys4_2_2	Lys4	2	2	Solibacillus silvestris	Solibacillus	silvestris	1.703	45	direct	1D
+Lys4_2_3	Lys4	2	3	NA	NA	NA	1.61	45	direct	1D
+Lys4_3_1	Lys4	3	1	NA	NA	NA	1.622	93	direct	1D
+Lys4_3_2	Lys4	3	2	NA	NA	NA	1.695	93	direct	1D
+Lys4_3_3	Lys4	3	3	NA	NA	NA	1.604	93	direct	1D
+Lys4_4_1	Lys4	4	1	NA	NA	NA	1.511	140	direct	1D
+Lys4_4_2	Lys4	4	2	NA	NA	NA	1.609	140	direct	1D
+Lys4_4_3	Lys4	4	3	Lysinibacillus sphaericus	Lysinibacillus	sphaericus	1.701	140	direct	1D
+Met1_1_1	Met1	1	1	Methylobacterium radiotolerans	Methylobacterium	radiotolerans	2.057	82	direct	1D
+Met1_1_2	Met1	1	2	Methylobacterium radiotolerans	Methylobacterium	radiotolerans	2.177	82	direct	1D
+Met1_1_3	Met1	1	3	Methylobacterium radiotolerans	Methylobacterium	radiotolerans	2.217	82	direct	1D
+Met1_2_1	Met1	2	1	Methylobacterium radiotolerans	Methylobacterium	radiotolerans	1.731	130	direct	1D
+Met1_2_2	Met1	2	2	Methylobacterium radiotolerans	Methylobacterium	radiotolerans	1.862	130	direct	1D
+Met1_2_3	Met1	2	3	Methylobacterium radiotolerans	Methylobacterium	radiotolerans	1.867	130	direct	1D
+Met1_3_1	Met1	3	1	Methylobacterium radiotolerans	Methylobacterium	radiotolerans	1.924	180	direct	1D
+Met1_3_2	Met1	3	2	Methylobacterium radiotolerans	Methylobacterium	radiotolerans	1.998	180	direct	1D
+Met1_3_3	Met1	3	3	Methylobacterium radiotolerans	Methylobacterium	radiotolerans	1.87	180	direct	1D
+Met1_4_1	Met1	4	1	Methylobacterium radiotolerans	Methylobacterium	radiotolerans	2.006	196	direct	1D
+Met1_4_2	Met1	4	2	Methylobacterium radiotolerans	Methylobacterium	radiotolerans	2.128	196	direct	1D
+Met1_4_3	Met1	4	3	Methylobacterium radiotolerans	Methylobacterium	radiotolerans	2.012	196	direct	1D
+Mic1_1_1	Mic1	1	1	Micrococcus luteus	Micrococcus	luteus	2.387	38	direct	1D
+Mic1_1_2	Mic1	1	2	Micrococcus luteus	Micrococcus	luteus	2.458	38	direct	1D
+Mic1_1_3	Mic1	1	3	Micrococcus luteus	Micrococcus	luteus	2.259	38	direct	1D
+Mic1_2_1	Mic1	2	1	Micrococcus luteus	Micrococcus	luteus	2.522	84	direct	1D
+Mic1_2_2	Mic1	2	2	Micrococcus luteus	Micrococcus	luteus	2.456	84	direct	1D
+Mic1_2_3	Mic1	2	3	Micrococcus luteus	Micrococcus	luteus	2.206	84	direct	1D
+Mic1_3_1	Mic1	3	1	Micrococcus luteus	Micrococcus	luteus	2.455	132	direct	1D
+Mic1_3_2	Mic1	3	2	Micrococcus luteus	Micrococcus	luteus	2.399	132	direct	1D
+Mic1_3_3	Mic1	3	3	Micrococcus luteus	Micrococcus	luteus	2.529	132	direct	1D
+Mic1_4_1	Mic1	4	1	Micrococcus luteus	Micrococcus	luteus	2.498	182	direct	1D
+Mic1_4_2	Mic1	4	2	Micrococcus luteus	Micrococcus	luteus	2.239	182	direct	1D
+Mic1_4_3	Mic1	4	3	Micrococcus luteus	Micrococcus	luteus	2.22	182	direct	1D
+Oer1_1_1	Oer1	1	1	Oerskovia turbata	Oerskovia	turbata	1.829	26	direct	1D
+Oer1_1_2	Oer1	1	2	Oerskovia turbata	Oerskovia	turbata	1.816	26	direct	1D
+Oer1_1_3	Oer1	1	3	Oerskovia turbata	Oerskovia	turbata	1.803	26	direct	1D
+Oer1_2_1	Oer1	2	1	NA	NA	NA	1.66	71	direct	1D
+Oer1_2_2	Oer1	2	2	NA	NA	NA	1.598	71	direct	1D
+Oer1_2_3	Oer1	2	3	NA	NA	NA	1.57	71	direct	1D
+Oer1_3_1	Oer1	3	1	Oerskovia turbata	Oerskovia	turbata	1.76	119	direct	1D
+Oer1_3_2	Oer1	3	2	Oerskovia turbata	Oerskovia	turbata	1.829	119	direct	1D
+Oer1_3_3	Oer1	3	3	Oerskovia turbata	Oerskovia	turbata	1.71	119	direct	1D
+Oer1_4_1	Oer1	4	1	Oerskovia turbata	Oerskovia	turbata	1.732	169	direct	1D
+Oer1_4_2	Oer1	4	2	NA	NA	NA	1.681	169	direct	1D
+Oer1_4_3	Oer1	4	3	Oerskovia turbata	Oerskovia	turbata	1.86	169	direct	1D
+Paa1_1_1	Paa1	1	1	Arthrobacter ilicis	Arthrobacter	ilicis	2.437	23	direct	1D
+Paa1_1_2	Paa1	1	2	Arthrobacter ilicis	Arthrobacter	ilicis	2.62	23	direct	1D
+Paa1_1_3	Paa1	1	3	Arthrobacter ilicis	Arthrobacter	ilicis	2.197	23	direct	1D
+Paa1_2_1	Paa1	2	1	Arthrobacter ilicis	Arthrobacter	ilicis	2.277	68	direct	1D
+Paa1_2_2	Paa1	2	2	Arthrobacter ilicis	Arthrobacter	ilicis	2.297	68	direct	1D
+Paa1_2_3	Paa1	2	3	Arthrobacter ilicis	Arthrobacter	ilicis	2.372	68	direct	1D
+Paa1_3_1	Paa1	3	1	Arthrobacter ilicis	Arthrobacter	ilicis	2.537	116	direct	1D
+Paa1_3_2	Paa1	3	2	Arthrobacter ilicis	Arthrobacter	ilicis	2.548	116	direct	1D
+Paa1_3_3	Paa1	3	3	Arthrobacter ilicis	Arthrobacter	ilicis	2.575	116	direct	1D
+Paa1_4_1	Paa1	4	1	Arthrobacter ilicis	Arthrobacter	ilicis	2.32	166	direct	1D
+Paa1_4_2	Paa1	4	2	Arthrobacter ilicis	Arthrobacter	ilicis	2.555	166	direct	1D
+Paa1_4_3	Paa1	4	3	Arthrobacter ilicis	Arthrobacter	ilicis	2.372	166	direct	1D
+Paa2_1_1	Paa2	1	1	Arthrobacter aurescens	Arthrobacter	aurescens	2.211	21	direct	1D
+Paa2_1_2	Paa2	1	2	Arthrobacter aurescens	Arthrobacter	aurescens	2.401	21	direct	1D
+Paa2_1_3	Paa2	1	3	Arthrobacter aurescens	Arthrobacter	aurescens	2.058	21	direct	1D
+Paa2_2_1	Paa2	2	1	Arthrobacter aurescens	Arthrobacter	aurescens	2.199	66	direct	1D
+Paa2_2_2	Paa2	2	2	Arthrobacter aurescens	Arthrobacter	aurescens	2.118	66	direct	1D
+Paa2_2_3	Paa2	2	3	Arthrobacter aurescens	Arthrobacter	aurescens	2.231	66	direct	1D
+Paa2_3_1	Paa2	3	1	Arthrobacter aurescens	Arthrobacter	aurescens	2.36	114	direct	1D
+Paa2_3_2	Paa2	3	2	Arthrobacter aurescens	Arthrobacter	aurescens	2.412	114	direct	1D
+Paa2_3_3	Paa2	3	3	Arthrobacter aurescens	Arthrobacter	aurescens	2.363	114	direct	1D
+Paa2_4_1	Paa2	4	1	Arthrobacter aurescens	Arthrobacter	aurescens	2.211	164	direct	1D
+Paa2_4_2	Paa2	4	2	Arthrobacter aurescens	Arthrobacter	aurescens	2.068	164	direct	1D
+Paa2_4_3	Paa2	4	3	Arthrobacter aurescens	Arthrobacter	aurescens	2.251	164	direct	1D
+Paa3_1_1	Paa3	1	1	Arthrobacter aurescens	Arthrobacter	aurescens	2.194	27	direct	1D
+Paa3_1_2	Paa3	1	2	Arthrobacter aurescens	Arthrobacter	aurescens	2.209	27	direct	1D
+Paa3_1_3	Paa3	1	3	Arthrobacter aurescens	Arthrobacter	aurescens	2.277	27	direct	1D
+Paa3_2_1	Paa3	2	1	Arthrobacter aurescens	Arthrobacter	aurescens	2.376	72	direct	1D
+Paa3_2_2	Paa3	2	2	Arthrobacter aurescens	Arthrobacter	aurescens	2.378	72	direct	1D
+Paa3_2_3	Paa3	2	3	Arthrobacter aurescens	Arthrobacter	aurescens	2.257	72	direct	1D
+Paa3_3_1	Paa3	3	1	Arthrobacter aurescens	Arthrobacter	aurescens	2.384	120	direct	1D
+Paa3_3_2	Paa3	3	2	Arthrobacter aurescens	Arthrobacter	aurescens	2.451	120	direct	1D
+Paa3_3_3	Paa3	3	3	Arthrobacter aurescens	Arthrobacter	aurescens	2.401	120	direct	1D
+Paa3_4_1	Paa3	4	1	Arthrobacter aurescens	Arthrobacter	aurescens	2.215	170	direct	1D
+Paa3_4_2	Paa3	4	2	Arthrobacter aurescens	Arthrobacter	aurescens	2.328	170	direct	1D
+Paa3_4_3	Paa3	4	3	Arthrobacter aurescens	Arthrobacter	aurescens	2.45	170	direct	1D
+Pab1_1_1	Pab1	1	1	Paenibacillus lactis	Paenibacillus	lactis	2.363	54	direct	1D
+Pab1_1_2	Pab1	1	2	Paenibacillus lactis	Paenibacillus	lactis	2.375	54	direct	1D
+Pab1_1_3	Pab1	1	3	Paenibacillus lactis	Paenibacillus	lactis	1.782	54	direct	1D
+Pab1_2_1	Pab1	2	1	Paenibacillus lactis	Paenibacillus	lactis	2.386	102	direct	1D
+Pab1_2_2	Pab1	2	2	Paenibacillus lactis	Paenibacillus	lactis	2.397	102	direct	1D
+Pab1_2_3	Pab1	2	3	Paenibacillus lactis	Paenibacillus	lactis	2.304	102	direct	1D
+Pab1_3_1	Pab1	3	1	Paenibacillus lactis	Paenibacillus	lactis	2.357	149	direct	1D
+Pab1_3_2	Pab1	3	2	Paenibacillus lactis	Paenibacillus	lactis	2.317	149	direct	1D
+Pab1_3_3	Pab1	3	3	Paenibacillus lactis	Paenibacillus	lactis	2.263	149	direct	1D
+Pab1_4_1	Pab1	4	1	Paenibacillus lactis	Paenibacillus	lactis	2.278	194	direct	1D
+Pab1_4_2	Pab1	4	2	Paenibacillus lactis	Paenibacillus	lactis	2.291	194	direct	1D
+Pab1_4_3	Pab1	4	3	Paenibacillus lactis	Paenibacillus	lactis	2.233	194	direct	1D
+Pan1_1_1	Pan1	1	1	Pandoraea pnomenusa	Pandoraea	pnomenusa	2.172	32	direct	1D
+Pan1_1_2	Pan1	1	2	Pandoraea pnomenusa	Pandoraea	pnomenusa	2.358	32	direct	1D
+Pan1_1_3	Pan1	1	3	Pandoraea pnomenusa	Pandoraea	pnomenusa	2.187	32	direct	1D
+Pan1_2_1	Pan1	2	1	Pandoraea pnomenusa	Pandoraea	pnomenusa	2.343	77	direct	1D
+Pan1_2_2	Pan1	2	2	Pandoraea pnomenusa	Pandoraea	pnomenusa	2.251	77	direct	1D
+Pan1_2_3	Pan1	2	3	Pandoraea pnomenusa	Pandoraea	pnomenusa	2.354	77	direct	1D
+Pan1_3_1	Pan1	3	1	Pandoraea pnomenusa	Pandoraea	pnomenusa	2.357	125	direct	1D
+Pan1_3_2	Pan1	3	2	Pandoraea pnomenusa	Pandoraea	pnomenusa	2.266	125	direct	1D
+Pan1_3_3	Pan1	3	3	Pandoraea pnomenusa	Pandoraea	pnomenusa	2.271	125	direct	1D
+Pan1_4_1	Pan1	4	1	Pandoraea pnomenusa	Pandoraea	pnomenusa	2.284	175	direct	1D
+Pan1_4_2	Pan1	4	2	Pandoraea pnomenusa	Pandoraea	pnomenusa	2.39	175	direct	1D
+Pan1_4_3	Pan1	4	3	Pandoraea pnomenusa	Pandoraea	pnomenusa	2.403	175	direct	1D
+Par1_1_1	Par1	1	1	Burkholderia xenovorans	Burkholderia	xenovorans	2.325	37	direct	1D
+Par1_1_2	Par1	1	2	Burkholderia xenovorans	Burkholderia	xenovorans	2.454	37	direct	1D
+Par1_1_3	Par1	1	3	Burkholderia xenovorans	Burkholderia	xenovorans	2.34	37	direct	1D
+Par1_2_1	Par1	2	1	Burkholderia xenovorans	Burkholderia	xenovorans	2.437	189	direct	1D
+Par1_2_2	Par1	2	2	Burkholderia xenovorans	Burkholderia	xenovorans	2.345	189	direct	1D
+Par1_2_3	Par1	2	3	Burkholderia xenovorans	Burkholderia	xenovorans	2.438	189	direct	1D
+Par1_3_1	Par1	3	1	Burkholderia xenovorans	Burkholderia	xenovorans	2.361	190	direct	1D
+Par1_3_2	Par1	3	2	Burkholderia xenovorans	Burkholderia	xenovorans	2.429	190	direct	1D
+Par1_3_3	Par1	3	3	Burkholderia xenovorans	Burkholderia	xenovorans	2.436	190	direct	1D
+Par1_4_1	Par1	4	1	Burkholderia xenovorans	Burkholderia	xenovorans	2.414	191	direct	1D
+Par1_4_2	Par1	4	2	Burkholderia xenovorans	Burkholderia	xenovorans	2.393	191	direct	1D
+Par1_4_3	Par1	4	3	Burkholderia xenovorans	Burkholderia	xenovorans	2.49	191	direct	1D
+Psa1_1_1	Psa1	1	1	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.31	17	direct	1D
+Psa1_1_2	Psa1	1	2	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.416	17	direct	1D
+Psa1_1_3	Psa1	1	3	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.203	17	direct	1D
+Psa1_2_1	Psa1	2	1	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.216	62	direct	1D
+Psa1_2_2	Psa1	2	2	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.23	62	direct	1D
+Psa1_2_3	Psa1	2	3	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.196	62	direct	1D
+Psa1_3_1	Psa1	3	1	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.266	110	direct	1D
+Psa1_3_2	Psa1	3	2	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.341	110	direct	1D
+Psa1_3_3	Psa1	3	3	Arthrobacter polychromogenes	Arthrobacter	polychromogenes	1.894	110	direct	1D
+Psa1_4_1	Psa1	4	1	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.187	160	direct	1D
+Psa1_4_2	Psa1	4	2	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.295	160	direct	1D
+Psa1_4_3	Psa1	4	3	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.29	160	direct	1D
+Psa2_1_1	Psa2	1	1	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	1.985	28	direct	1D
+Psa2_1_2	Psa2	1	2	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.048	28	direct	1D
+Psa2_1_3	Psa2	1	3	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	1.829	28	direct	1D
+Psa2_2_1	Psa2	2	1	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.122	73	direct	1D
+Psa2_2_2	Psa2	2	2	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	2.031	73	direct	1D
+Psa2_2_3	Psa2	2	3	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	1.926	73	direct	1D
+Psa2_3_1	Psa2	3	1	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	1.88	121	direct	1D
+Psa2_3_2	Psa2	3	2	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	1.966	121	direct	1D
+Psa2_3_3	Psa2	3	3	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	1.979	121	direct	1D
+Psa2_4_1	Psa2	4	1	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	1.956	171	direct	1D
+Psa2_4_2	Psa2	4	2	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	1.972	171	direct	1D
+Psa2_4_3	Psa2	4	3	Arthrobacter chlorophenolicus	Arthrobacter	chlorophenolicus	1.945	171	direct	1D
+Psa3_1_1	Psa3	1	1	Arthrobacter oxydans	Arthrobacter	oxydans	2.173	31	direct	1D
+Psa3_1_2	Psa3	1	2	Arthrobacter oxydans	Arthrobacter	oxydans	2.446	31	direct	1D
+Psa3_1_3	Psa3	1	3	Arthrobacter oxydans	Arthrobacter	oxydans	2.217	31	direct	1D
+Psa3_2_1	Psa3	2	1	Arthrobacter oxydans	Arthrobacter	oxydans	2.385	76	direct	1D
+Psa3_2_2	Psa3	2	2	Arthrobacter oxydans	Arthrobacter	oxydans	2.418	76	direct	1D
+Psa3_2_3	Psa3	2	3	Arthrobacter oxydans	Arthrobacter	oxydans	2.166	76	direct	1D
+Psa3_3_1	Psa3	3	1	Arthrobacter oxydans	Arthrobacter	oxydans	2.375	124	direct	1D
+Psa3_3_2	Psa3	3	2	Arthrobacter oxydans	Arthrobacter	oxydans	2.432	124	direct	1D
+Psa3_3_3	Psa3	3	3	Arthrobacter oxydans	Arthrobacter	oxydans	2.469	124	direct	1D
+Psa3_4_1	Psa3	4	1	Arthrobacter oxydans	Arthrobacter	oxydans	2.112	174	direct	1D
+Psa3_4_2	Psa3	4	2	Arthrobacter oxydans	Arthrobacter	oxydans	2.506	174	direct	1D
+Psa3_4_3	Psa3	4	3	Arthrobacter oxydans	Arthrobacter	oxydans	2.197	174	direct	1D
+Psa4_1_1	Psa4	1	1	Arthrobacter oxydans	Arthrobacter	oxydans	1.905	30	direct	1D
+Psa4_1_2	Psa4	1	2	Arthrobacter polychromogenes	Arthrobacter	polychromogenes	2.349	30	direct	1D
+Psa4_1_3	Psa4	1	3	Arthrobacter polychromogenes	Arthrobacter	polychromogenes	2.276	30	direct	1D
+Psa4_2_1	Psa4	2	1	Arthrobacter polychromogenes	Arthrobacter	polychromogenes	2.191	75	direct	1D
+Psa4_2_2	Psa4	2	2	Arthrobacter scleromae	Arthrobacter	scleromae	2.336	75	direct	1D
+Psa4_2_3	Psa4	2	3	Arthrobacter oxydans	Arthrobacter	oxydans	1.971	75	direct	1D
+Psa4_3_1	Psa4	3	1	Arthrobacter polychromogenes	Arthrobacter	polychromogenes	2.351	123	direct	1D
+Psa4_3_2	Psa4	3	2	Arthrobacter polychromogenes	Arthrobacter	polychromogenes	2.38	123	direct	1D
+Psa4_3_3	Psa4	3	3	Arthrobacter polychromogenes	Arthrobacter	polychromogenes	2.362	123	direct	1D
+Psa4_4_1	Psa4	4	1	Arthrobacter polychromogenes	Arthrobacter	polychromogenes	2.172	173	direct	1D
+Psa4_4_2	Psa4	4	2	Arthrobacter scleromae	Arthrobacter	scleromae	2.326	173	direct	1D
+Psa4_4_3	Psa4	4	3	Arthrobacter polychromogenes	Arthrobacter	polychromogenes	2.354	173	direct	1D
+Psm1_1_1	Psm1	1	1	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.255	19	direct	1D
+Psm1_1_2	Psm1	1	2	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.306	19	direct	1D
+Psm1_1_3	Psm1	1	3	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.2	19	direct	1D
+Psm1_2_1	Psm1	2	1	Pseudomonas pseudoalcaligenes	Pseudomonas	pseudoalcaligenes	2.191	64	direct	1D
+Psm1_2_2	Psm1	2	2	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.267	64	direct	1D
+Psm1_2_3	Psm1	2	3	Pseudomonas pseudoalcaligenes	Pseudomonas	pseudoalcaligenes	2.172	64	direct	1D
+Psm1_3_1	Psm1	3	1	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.406	112	direct	1D
+Psm1_3_2	Psm1	3	2	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.364	112	direct	1D
+Psm1_3_3	Psm1	3	3	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.377	112	direct	1D
+Psm1_4_1	Psm1	4	1	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.236	162	direct	1D
+Psm1_4_2	Psm1	4	2	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.352	162	direct	1D
+Psm1_4_3	Psm1	4	3	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.259	162	direct	1D
+Psm10_1_1	Psm10	1	1	NA	NA	NA	1.537	36	direct	1D
+Psm10_1_2	Psm10	1	2	NA	NA	NA	1.642	36	direct	1D
+Psm10_1_3	Psm10	1	3	NA	NA	NA	1.478	36	direct	1D
+Psm10_2_1	Psm10	2	1	NA	NA	NA	1.489	83	direct	1D
+Psm10_2_2	Psm10	2	2	NA	NA	NA	1.452	83	direct	1D
+Psm10_2_3	Psm10	2	3	NA	NA	NA	1.526	83	direct	1D
+Psm10_3_1	Psm10	3	1	NA	NA	NA	1.578	131	direct	1D
+Psm10_3_2	Psm10	3	2	NA	NA	NA	1.523	131	direct	1D
+Psm10_3_3	Psm10	3	3	NA	NA	NA	1.622	131	direct	1D
+Psm10_4_1	Psm10	4	1	NA	NA	NA	1.453	181	direct	1D
+Psm10_4_2	Psm10	4	2	NA	NA	NA	1.516	181	direct	1D
+Psm10_4_3	Psm10	4	3	NA	NA	NA	1.446	181	direct	1D
+Psm2_1_1	Psm2	1	1	Pseudomonas pseudoalcaligenes	Pseudomonas	pseudoalcaligenes	2.127	34	direct	1D
+Psm2_1_2	Psm2	1	2	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.226	34	direct	1D
+Psm2_1_3	Psm2	1	3	Pseudomonas oleovorans	Pseudomonas	oleovorans	2.192	34	direct	1D
+Psm2_2_1	Psm2	2	1	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.081	80	direct	1D
+Psm2_2_2	Psm2	2	2	Pseudomonas pseudoalcaligenes	Pseudomonas	pseudoalcaligenes	2.127	80	direct	1D
+Psm2_2_3	Psm2	2	3	Pseudomonas pseudoalcaligenes	Pseudomonas	pseudoalcaligenes	1.997	80	direct	1D
+Psm2_3_1	Psm2	3	1	Pseudomonas oleovorans	Pseudomonas	oleovorans	2.218	128	direct	1D
+Psm2_3_2	Psm2	3	2	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.225	128	direct	1D
+Psm2_3_3	Psm2	3	3	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.224	128	direct	1D
+Psm2_4_1	Psm2	4	1	Pseudomonas oleovorans	Pseudomonas	oleovorans	2.053	178	direct	1D
+Psm2_4_2	Psm2	4	2	Pseudomonas alcaliphila	Pseudomonas	alcaliphila	2.243	178	direct	1D
+Psm2_4_3	Psm2	4	3	Pseudomonas oleovorans	Pseudomonas	oleovorans	2.127	178	direct	1D
+Psm3_1_1	Psm3	1	1	Pseudomonas anguilliseptica	Pseudomonas	anguilliseptica	2.018	40	direct	1D
+Psm3_1_2	Psm3	1	2	Pseudomonas anguilliseptica	Pseudomonas	anguilliseptica	1.941	40	direct	1D
+Psm3_1_3	Psm3	1	3	Pseudomonas anguilliseptica	Pseudomonas	anguilliseptica	1.923	40	direct	1D
+Psm3_2_1	Psm3	2	1	Pseudomonas anguilliseptica	Pseudomonas	anguilliseptica	1.943	86	direct	1D
+Psm3_2_2	Psm3	2	2	Pseudomonas anguilliseptica	Pseudomonas	anguilliseptica	1.913	86	direct	1D
+Psm3_2_3	Psm3	2	3	Pseudomonas anguilliseptica	Pseudomonas	anguilliseptica	2.006	86	direct	1D
+Psm3_3_1	Psm3	3	1	Pseudomonas anguilliseptica	Pseudomonas	anguilliseptica	1.979	134	direct	1D
+Psm3_3_2	Psm3	3	2	Pseudomonas anguilliseptica	Pseudomonas	anguilliseptica	1.887	134	direct	1D
+Psm3_3_3	Psm3	3	3	Pseudomonas anguilliseptica	Pseudomonas	anguilliseptica	1.996	134	direct	1D
+Psm3_4_1	Psm3	4	1	Pseudomonas anguilliseptica	Pseudomonas	anguilliseptica	1.905	184	direct	1D
+Psm3_4_2	Psm3	4	2	Pseudomonas anguilliseptica	Pseudomonas	anguilliseptica	2.019	184	direct	1D
+Psm3_4_3	Psm3	4	3	Pseudomonas anguilliseptica	Pseudomonas	anguilliseptica	1.898	184	direct	1D
+Psm4_1_1	Psm4	1	1	Pseudomonas rhodesiae	Pseudomonas	rhodesiae	2.153	15	direct	1D
+Psm4_1_2	Psm4	1	2	Pseudomonas veronii	Pseudomonas	veronii	2.296	15	direct	1D
+Psm4_1_3	Psm4	1	3	Pseudomonas veronii	Pseudomonas	veronii	2.323	15	direct	1D
+Psm4_2_1	Psm4	2	1	Pseudomonas veronii	Pseudomonas	veronii	2.22	156	direct	1D
+Psm4_2_2	Psm4	2	2	Pseudomonas veronii	Pseudomonas	veronii	2.172	156	direct	1D
+Psm4_2_3	Psm4	2	3	Pseudomonas veronii	Pseudomonas	veronii	2.26	156	direct	1D
+Psm4_3_1	Psm4	3	1	Pseudomonas veronii	Pseudomonas	veronii	2.242	157	direct	1D
+Psm4_3_2	Psm4	3	2	Pseudomonas veronii	Pseudomonas	veronii	2.371	157	direct	1D
+Psm4_3_3	Psm4	3	3	Pseudomonas veronii	Pseudomonas	veronii	2.352	157	direct	1D
+Psm4_4_1	Psm4	4	1	Pseudomonas veronii	Pseudomonas	veronii	2.25	158	direct	1D
+Psm4_4_2	Psm4	4	2	Pseudomonas veronii	Pseudomonas	veronii	2.323	158	direct	1D
+Psm4_4_3	Psm4	4	3	Pseudomonas veronii	Pseudomonas	veronii	2.162	158	direct	1D
+Psm5_1_1	Psm5	1	1	Pseudomonas gessardii	Pseudomonas	gessardii	2.142	9	direct	1D
+Psm5_1_2	Psm5	1	2	Pseudomonas gessardii	Pseudomonas	gessardii	2.25	9	direct	1D
+Psm5_1_3	Psm5	1	3	Pseudomonas gessardii	Pseudomonas	gessardii	2.222	9	direct	1D
+Psm5_2_1	Psm5	2	1	Pseudomonas gessardii	Pseudomonas	gessardii	2.135	55	direct	1D
+Psm5_2_2	Psm5	2	2	Pseudomonas gessardii	Pseudomonas	gessardii	2.201	55	direct	1D
+Psm5_2_3	Psm5	2	3	Pseudomonas gessardii	Pseudomonas	gessardii	2.156	55	direct	1D
+Psm5_3_1	Psm5	3	1	Pseudomonas gessardii	Pseudomonas	gessardii	2.194	103	direct	1D
+Psm5_3_2	Psm5	3	2	Pseudomonas gessardii	Pseudomonas	gessardii	2.203	103	direct	1D
+Psm5_3_3	Psm5	3	3	Pseudomonas gessardii	Pseudomonas	gessardii	2.193	103	direct	1D
+Psm5_4_1	Psm5	4	1	Pseudomonas gessardii	Pseudomonas	gessardii	2.127	150	direct	1D
+Psm5_4_2	Psm5	4	2	Pseudomonas gessardii	Pseudomonas	gessardii	2.157	150	direct	1D
+Psm5_4_3	Psm5	4	3	Pseudomonas gessardii	Pseudomonas	gessardii	1.996	150	direct	1D
+Psm6_1_1	Psm6	1	1	Pseudomonas sp[2]	Pseudomonas	sp[2]	2.13	39	direct	1D
+Psm6_1_2	Psm6	1	2	Pseudomonas sp[2]	Pseudomonas	sp[2]	2.208	39	direct	1D
+Psm6_1_3	Psm6	1	3	Pseudomonas sp[2]	Pseudomonas	sp[2]	2.122	39	direct	1D
+Psm6_2_1	Psm6	2	1	Pseudomonas sp[2]	Pseudomonas	sp[2]	2.194	85	direct	1D
+Psm6_2_2	Psm6	2	2	Pseudomonas sp[2]	Pseudomonas	sp[2]	2.158	85	direct	1D
+Psm6_2_3	Psm6	2	3	Pseudomonas sp[2]	Pseudomonas	sp[2]	2.192	85	direct	1D
+Psm6_3_1	Psm6	3	1	Pseudomonas sp[2]	Pseudomonas	sp[2]	2.18	133	direct	1D
+Psm6_3_2	Psm6	3	2	Pseudomonas sp[2]	Pseudomonas	sp[2]	2.238	133	direct	1D
+Psm6_3_3	Psm6	3	3	Pseudomonas sp[2]	Pseudomonas	sp[2]	2.306	133	direct	1D
+Psm6_4_1	Psm6	4	1	Pseudomonas sp[2]	Pseudomonas	sp[2]	2.205	183	direct	1D
+Psm6_4_2	Psm6	4	2	Pseudomonas sp[2]	Pseudomonas	sp[2]	2.248	183	direct	1D
+Psm6_4_3	Psm6	4	3	Pseudomonas sp[2]	Pseudomonas	sp[2]	2.135	183	direct	1D
+Psm7_1_1	Psm7	1	1	Pseudomonas putida	Pseudomonas	putida	2.365	35	direct	1D
+Psm7_1_2	Psm7	1	2	Pseudomonas putida	Pseudomonas	putida	2.269	35	direct	1D
+Psm7_1_3	Psm7	1	3	Pseudomonas putida	Pseudomonas	putida	2.166	35	direct	1D
+Psm7_2_1	Psm7	2	1	Pseudomonas putida	Pseudomonas	putida	2.381	81	direct	1D
+Psm7_2_2	Psm7	2	2	Pseudomonas putida	Pseudomonas	putida	2.424	81	direct	1D
+Psm7_2_3	Psm7	2	3	Pseudomonas putida	Pseudomonas	putida	2.15	81	direct	1D
+Psm7_3_1	Psm7	3	1	Pseudomonas putida	Pseudomonas	putida	2.261	129	direct	1D
+Psm7_3_2	Psm7	3	2	Pseudomonas putida	Pseudomonas	putida	2.321	129	direct	1D
+Psm7_3_3	Psm7	3	3	Pseudomonas putida	Pseudomonas	putida	2.339	129	direct	1D
+Psm7_4_1	Psm7	4	1	Pseudomonas monteilii	Pseudomonas	monteilii	2.178	179	direct	1D
+Psm7_4_2	Psm7	4	2	Pseudomonas monteilii	Pseudomonas	monteilii	2.218	179	direct	1D
+Psm7_4_3	Psm7	4	3	Pseudomonas monteilii	Pseudomonas	monteilii	2.093	179	direct	1D
+Psm8_1_1	Psm8	1	1	Pseudomonas putida	Pseudomonas	putida	2.215	41	direct	1D
+Psm8_1_2	Psm8	1	2	Pseudomonas putida	Pseudomonas	putida	2.319	41	direct	1D
+Psm8_1_3	Psm8	1	3	Pseudomonas monteilii	Pseudomonas	monteilii	2.133	41	direct	1D
+Psm8_2_1	Psm8	2	1	Pseudomonas putida	Pseudomonas	putida	2.328	88	direct	1D
+Psm8_2_2	Psm8	2	2	Pseudomonas putida	Pseudomonas	putida	2.414	88	direct	1D
+Psm8_2_3	Psm8	2	3	Pseudomonas putida	Pseudomonas	putida	2.375	88	direct	1D
+Psm8_3_1	Psm8	3	1	Pseudomonas putida	Pseudomonas	putida	2.447	136	direct	1D
+Psm8_3_2	Psm8	3	2	Pseudomonas putida	Pseudomonas	putida	2.335	136	direct	1D
+Psm8_3_3	Psm8	3	3	Pseudomonas putida	Pseudomonas	putida	2.411	136	direct	1D
+Psm8_4_1	Psm8	4	1	Pseudomonas monteilii	Pseudomonas	monteilii	2.184	186	direct	1D
+Psm8_4_2	Psm8	4	2	Pseudomonas putida	Pseudomonas	putida	2.3	186	direct	1D
+Psm8_4_3	Psm8	4	3	Pseudomonas putida	Pseudomonas	putida	2.247	186	direct	1D
+Psm9_1_1	Psm9	1	1	Pseudomonas viridiflava	Pseudomonas	viridiflava	1.729	16	direct	1D
+Psm9_1_2	Psm9	1	2	NA	NA	NA	1.683	16	direct	1D
+Psm9_1_3	Psm9	1	3	NA	NA	NA	1.574	16	direct	1D
+Psm9_2_1	Psm9	2	1	NA	NA	NA	1.596	61	direct	1D
+Psm9_2_2	Psm9	2	2	NA	NA	NA	1.652	61	direct	1D
+Psm9_2_3	Psm9	2	3	NA	NA	NA	1.578	61	direct	1D
+Psm9_3_1	Psm9	3	1	Pseudomonas mendocina	Pseudomonas	mendocina	1.729	109	direct	1D
+Psm9_3_2	Psm9	3	2	NA	NA	NA	1.666	109	direct	1D
+Psm9_3_3	Psm9	3	3	NA	NA	NA	1.676	109	direct	1D
+Psm9_4_1	Psm9	4	1	Pseudomonas thermotolerans	Pseudomonas	thermotolerans	1.788	159	direct	1D
+Psm9_4_2	Psm9	4	2	NA	NA	NA	1.66	159	direct	1D
+Psm9_4_3	Psm9	4	3	Pseudomonas thermotolerans	Pseudomonas	thermotolerans	1.704	159	direct	1D
+Rhi1_1_1	Rhi1	1	1	Rhizobium radiobacter	Rhizobium	radiobacter	2.109	33	direct	1D
+Rhi1_1_2	Rhi1	1	2	Rhizobium radiobacter	Rhizobium	radiobacter	2.088	33	direct	1D
+Rhi1_1_3	Rhi1	1	3	Rhizobium radiobacter	Rhizobium	radiobacter	2.098	33	direct	1D
+Rhi1_2_1	Rhi1	2	1	Rhizobium radiobacter	Rhizobium	radiobacter	2.165	78	direct	1D
+Rhi1_2_2	Rhi1	2	2	Rhizobium radiobacter	Rhizobium	radiobacter	2.126	78	direct	1D
+Rhi1_2_3	Rhi1	2	3	Rhizobium radiobacter	Rhizobium	radiobacter	2.106	78	direct	1D
+Rhi1_3_1	Rhi1	3	1	Rhizobium radiobacter	Rhizobium	radiobacter	2.218	126	direct	1D
+Rhi1_3_2	Rhi1	3	2	Rhizobium radiobacter	Rhizobium	radiobacter	2.223	126	direct	1D
+Rhi1_3_3	Rhi1	3	3	Rhizobium radiobacter	Rhizobium	radiobacter	2.122	126	direct	1D
+Rhi1_4_1	Rhi1	4	1	Rhizobium radiobacter	Rhizobium	radiobacter	2.135	176	direct	1D
+Rhi1_4_2	Rhi1	4	2	Rhizobium radiobacter	Rhizobium	radiobacter	1.996	176	direct	1D
+Rhi1_4_3	Rhi1	4	3	Rhizobium radiobacter	Rhizobium	radiobacter	2.128	176	direct	1D
+Rho1_1_1	Rho1	1	1	Rhodococcus erythropolis	Rhodococcus	erythropolis	2.154	47	direct	1D
+Rho1_1_2	Rho1	1	2	Rhodococcus erythropolis	Rhodococcus	erythropolis	2.22	47	direct	1D
+Rho1_1_3	Rho1	1	3	Rhodococcus erythropolis	Rhodococcus	erythropolis	2.296	47	direct	1D
+Rho1_2_1	Rho1	2	1	Rhodococcus erythropolis	Rhodococcus	erythropolis	2.344	95	direct	1D
+Rho1_2_2	Rho1	2	2	Rhodococcus erythropolis	Rhodococcus	erythropolis	2.332	95	direct	1D
+Rho1_2_3	Rho1	2	3	Rhodococcus erythropolis	Rhodococcus	erythropolis	2.269	95	direct	1D
+Rho1_3_1	Rho1	3	1	Rhodococcus erythropolis	Rhodococcus	erythropolis	2.209	142	direct	1D
+Rho1_3_2	Rho1	3	2	Rhodococcus erythropolis	Rhodococcus	erythropolis	2.316	142	direct	1D
+Rho1_3_3	Rho1	3	3	Rhodococcus erythropolis	Rhodococcus	erythropolis	2.289	142	direct	1D
+Rho1_4_1	Rho1	4	1	Rhodococcus erythropolis	Rhodococcus	erythropolis	2.322	197	direct	1D
+Rho1_4_2	Rho1	4	2	Rhodococcus erythropolis	Rhodococcus	erythropolis	2.394	197	direct	1D
+Rho1_4_3	Rho1	4	3	Rhodococcus erythropolis	Rhodococcus	erythropolis	2.28	197	direct	1D
+Rho2_1_1	Rho2	1	1	Rhodococcus imtechensis	Rhodococcus	imtechensis	2.41	87	direct	1D
+Rho2_1_2	Rho2	1	2	Rhodococcus imtechensis	Rhodococcus	imtechensis	2.383	87	direct	1D
+Rho2_1_3	Rho2	1	3	Rhodococcus imtechensis	Rhodococcus	imtechensis	2.28	87	direct	1D
+Rho2_2_1	Rho2	2	1	Rhodococcus imtechensis	Rhodococcus	imtechensis	2.351	135	direct	1D
+Rho2_2_2	Rho2	2	2	Rhodococcus imtechensis	Rhodococcus	imtechensis	2.281	135	direct	1D
+Rho2_2_3	Rho2	2	3	Rhodococcus imtechensis	Rhodococcus	imtechensis	2.335	135	direct	1D
+Rho2_3_1	Rho2	3	1	Rhodococcus imtechensis	Rhodococcus	imtechensis	2.302	185	direct	1D
+Rho2_3_2	Rho2	3	2	Rhodococcus imtechensis	Rhodococcus	imtechensis	2.359	185	direct	1D
+Rho2_3_3	Rho2	3	3	Rhodococcus imtechensis	Rhodococcus	imtechensis	2.307	185	direct	1D
+Rho2_4_1	Rho2	4	1	Rhodococcus imtechensis	Rhodococcus	imtechensis	2.372	198	direct	1D
+Rho2_4_2	Rho2	4	2	Rhodococcus imtechensis	Rhodococcus	imtechensis	2.366	198	direct	1D
+Rho2_4_3	Rho2	4	3	Rhodococcus imtechensis	Rhodococcus	imtechensis	2.387	198	direct	1D
+Rho3_1_1	Rho3	1	1	NA	NA	NA	1.479	48	direct	1D
+Rho3_1_2	Rho3	1	2	NA	NA	NA	1.545	48	direct	1D
+Rho3_1_3	Rho3	1	3	NA	NA	NA	1.421	48	direct	1D
+Rho3_2_1	Rho3	2	1	NA	NA	NA	1.487	96	direct	1D
+Rho3_2_2	Rho3	2	2	NA	NA	NA	1.468	96	direct	1D
+Rho3_2_3	Rho3	2	3	NA	NA	NA	1.514	96	direct	1D
+Rho3_3_1	Rho3	3	1	NA	NA	NA	1.521	143	direct	1D
+Rho3_3_2	Rho3	3	2	NA	NA	NA	1.569	143	direct	1D
+Rho3_3_3	Rho3	3	3	NA	NA	NA	1.517	143	direct	1D
+Rho3_4_1	Rho3	4	1	NA	NA	NA	1.528	192	direct	1D
+Rho3_4_2	Rho3	4	2	NA	NA	NA	1.464	192	direct	1D
+Rho3_4_3	Rho3	4	3	Rhodococcus erythropolis	Rhodococcus	erythropolis	1.705	192	direct	1D
+Sol1_1_1	Sol1	1	1	Solibacillus silvestris	Solibacillus	silvestris	2.256	12	direct	1D
+Sol1_1_2	Sol1	1	2	Solibacillus silvestris	Solibacillus	silvestris	2.25	12	direct	1D
+Sol1_1_3	Sol1	1	3	Solibacillus silvestris	Solibacillus	silvestris	2.253	12	direct	1D
+Sol1_2_1	Sol1	2	1	Solibacillus silvestris	Solibacillus	silvestris	2.338	58	direct	1D
+Sol1_2_2	Sol1	2	2	Solibacillus silvestris	Solibacillus	silvestris	2.399	58	direct	1D
+Sol1_2_3	Sol1	2	3	Solibacillus silvestris	Solibacillus	silvestris	2.259	58	direct	1D
+Sol1_3_1	Sol1	3	1	Solibacillus silvestris	Solibacillus	silvestris	2.279	106	direct	1D
+Sol1_3_2	Sol1	3	2	Solibacillus silvestris	Solibacillus	silvestris	2.314	106	direct	1D
+Sol1_3_3	Sol1	3	3	Solibacillus silvestris	Solibacillus	silvestris	2.175	106	direct	1D
+Sol1_4_1	Sol1	4	1	Solibacillus silvestris	Solibacillus	silvestris	2.326	153	direct	1D
+Sol1_4_2	Sol1	4	2	Solibacillus silvestris	Solibacillus	silvestris	2.37	153	direct	1D
+Sol1_4_3	Sol1	4	3	Solibacillus silvestris	Solibacillus	silvestris	2.262	153	direct	1D
+Spo1_1_1	Spo1	1	1	NA	NA	NA	1.452	7	direct	1D
+Spo1_1_2	Spo1	1	2	NA	NA	NA	1.41	7	direct	1D
+Spo1_1_3	Spo1	1	3	NA	NA	NA	1.498	7	direct	1D
+Spo1_2_1	Spo1	2	1	NA	NA	NA	1.405	51	direct	1D
+Spo1_2_2	Spo1	2	2	NA	NA	NA	1.508	51	direct	1D
+Spo1_2_3	Spo1	2	3	NA	NA	NA	1.496	51	direct	1D
+Spo1_3_1	Spo1	3	1	NA	NA	NA	1.594	99	direct	1D
+Spo1_3_2	Spo1	3	2	NA	NA	NA	1.497	99	direct	1D
+Spo1_3_3	Spo1	3	3	NA	NA	NA	1.594	99	direct	1D
+Spo1_4_1	Spo1	4	1	NA	NA	NA	1.412	146	direct	1D
+Spo1_4_2	Spo1	4	2	NA	NA	NA	1.447	146	direct	1D
+Spo1_4_3	Spo1	4	3	NA	NA	NA	1.415	146	direct	1D
