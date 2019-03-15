@@ -165,6 +165,7 @@ MS <- classicMALDI(s, range = c(2000, 20000))
 
 ``` r
 # to print mass dedrogram of all mass spectra (Supplementary Figure 1) you can use PDFplot() function.
+# You can use plot() arguments to modify the dendrogram properties, e.g. use cex=0.5 for smaller labels.
 PDFplot(MS$hc, file = "dendrogram.pdf", cutoffs = c(1-0.79, 1-0.92))
 
 # plot distribution of average cosine similarity of each spectrum to its technical replicates
