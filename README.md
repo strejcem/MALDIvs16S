@@ -142,6 +142,8 @@ for (param in names(metadata)) {
 screen spectra for outliers
 ---------------------------
 
+! For novel approach to identify spectra outliers look at [MALDIrppa R package](https://cran.r-project.org/web/packages/MALDIrppa/index.html)
+
 Process MS data with convenience function 'classicMaldi()' that wraps the suggested workflow in MALDIquant package (See the manuscript for more details). The default parameters of 'classicMaldi()' are set to the optimized values, e.g. MS range is trimmed to 4000-10000. In the manuscript, the first processing step was to look for significantly different technical replicates. Therefore, we change here the mass range back to full range of 2000-20000.
 
 The 'classicMaldi()' computes several things at once and results are saved in individual sublist of the output object:
