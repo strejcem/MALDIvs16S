@@ -5,7 +5,7 @@ require("MALDIquantForeign")
 require("XML")
 require("coop")
 
-message("v0.986 (2018-21-Mar)")
+message("v0.987 (2019-15-Mar)")
 
 ###############################################################################
 
@@ -272,7 +272,7 @@ classicMALDI <- function(x, dist.method = "cos", range = c(4000, 10000),
 ## PDF dendrogram
 
 PDFplot <- function(hc, cutoffs = 0.17, color = NULL, file = NULL,
-                    scaleToPrint = T, main = NULL) {
+                    scaleToPrint = T, main = NULL, ...) {
   
   if (class(hc) != "hclust") stop("Object is not of 'hclust' class")
   if (is.null(file)) file <-
@@ -288,7 +288,7 @@ PDFplot <- function(hc, cutoffs = 0.17, color = NULL, file = NULL,
   #open pdf device
   pdf(file = file, width = pdfWidth, height = 7, pointsize = 8)
 
-  plot(hc, hang = -1, main = main)
+  plot(hc, hang = -1, main = main, ...)
   clusText <- NULL
   textPosY <- NULL
   if(!is.null(cutoffs)) {
